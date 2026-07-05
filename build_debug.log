@@ -1,0 +1,11 @@
+Starting Metro Bundler
+
+warning: Bundler cache is empty, rebuilding (this may take a minute)
+Web Bundling failed 10421ms index.ts (145 modules)
+
+SyntaxError: SyntaxError: /home/ricky/GymMingle/App.tsx: Unexpected token (888:0)
+
+[0m [90m 886 |[39m     overflow[33m:[39m [32m'hidden'[39m[33m,[39m
+ [90m 887 |[39m     position[33m:[39m [32m'relative'[39m[33m,[39m
+[31m[1m>[22m[39m[90m 888 |[39m
+ [90m     |[39m [31m[1m^[22m[39m[0m
